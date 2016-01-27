@@ -1,2 +1,5 @@
 # hello-world
-Hello World...just another repository
+####Hello World...just another repository.
+
+Working through the Hello World guide.
+
