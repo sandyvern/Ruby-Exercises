@@ -1,8 +1,10 @@
 num_at_start = 99
 num_now = num_at_start
 
-  while num_now > 2
+  while num_now > 0
     puts num_now.to_s + " bottles of beer on the wall, " + num_now.to_s + " bottles of beer!"
   num_now = num_now - 1
     puts "Take one down, pass it around, " + num_now.to_s + " bottles of beer on the wall!"
+    puts "No more bottles of beer on the wall, no more bottles of beer! Go to the store and buy some more, 99 bottles of beer on the wall!"
   end
+    
