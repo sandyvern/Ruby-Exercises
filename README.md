@@ -1,5 +1,5 @@
-# hello-world
-####Hello World...just another repository.
+# Ruby Exercises
+####A repo for various Ruby exercises from various sources from my quest to learn Ruby.
 
-Working through the Hello World guide.
+
 
