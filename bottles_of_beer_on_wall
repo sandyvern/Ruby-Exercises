@@ -1,4 +1,4 @@
-num_at_start = 5
+num_at_start = 99
 num_now = num_at_start
 
   while num_now > 2
